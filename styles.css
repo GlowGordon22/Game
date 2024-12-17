@@ -1,0 +1,6 @@
+*{
+    background-image: url('bg.png');
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents repeating the image */
+    background-attachment: fixed; /* Keeps the background fixed while scrolling */
+}
